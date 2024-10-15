@@ -9,6 +9,7 @@ Key Insights:
 Sales Over Time: A timeline analysis showcasing seasonal fluctuations and long-term pricing trends.
 Location-Based Pricing: Identifying high-value areas based on average property prices and sizes.
 Property Size and Price Correlation: Understanding the relationship between property size and sale price to identify trends.
+
 Tools Used:
 SQL: For data extraction and transformation.
 Python: For data cleaning and analysis.
@@ -22,6 +23,7 @@ Key Insights:
 Customer Satisfaction Trends: A month-by-month analysis of average customer ratings.
 Service Breakdown by Country: Understanding which regions have the highest and lowest customer satisfaction levels.
 Top Issues: Identifying the most frequently mentioned issues such as delays, staff service, and in-flight experience.
+
 Tools Used:
 SQL: For review data extraction and cleaning.
 Python: For processing and trend analysis.
