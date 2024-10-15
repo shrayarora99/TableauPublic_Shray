@@ -1,5 +1,5 @@
-# TableauPublic_Shray
-Data Analysis and Tableau Vizualization 
+# Tableau_Public_Shray_Arora
+Data Analysis and Tableau Vizualization for King County (Washington) Housing and British Airways Customer Reviews.
 
 ## Tableau Visualizations
 
