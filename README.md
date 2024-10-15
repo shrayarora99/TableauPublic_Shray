@@ -9,5 +9,6 @@ Data Analysis and Tableau Vizualization
 [View on Tableau Public](https://public.tableau.com/path_to_your_viz)
 
 ### British Airways Review Dashboard
-![British Airways Review](image_file_name.png)
+![Image description](https://github.com/shrayarora99/TableauPublic_Shray/blob/main/British%20Airways%20Customer%20Reviews%20Analysis.png)
 [View on Tableau Public](https://public.tableau.com/path_to_your_other_viz)
+
