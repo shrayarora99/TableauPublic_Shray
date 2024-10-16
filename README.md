@@ -1,5 +1,5 @@
 # Tableau_Public_Shray_Arora
-Data Analysis and Tableau Vizualization for King County (Washington) Housing, Netflix Content, School-age Digital Connectivity and British Airways Customer Reviews.
+Data Analysis and Tableau Visualization for King County (Washington) Housing, Netflix Content, School-age Digital Connectivity, and British Airways Customer Reviews.
 
 ## Tableau Visualizations
 
@@ -86,7 +86,7 @@ SQL: For extracting and managing large datasets.
 Python: For data processing and cleaning.
 
 Tableau: For creating interactive visualizations and insightful presentations.
-![Image Description](https://github.com/shrayarora99/TableauPublic_Shray/blob/main/Netflix%20Content%20Data%20Analysis.png)
+![Image Description](https://github.com/shrayarora99/TableauPublic_Shray/blob/main/School-age%20Digital%20Connectivity.png)
 [View on Tableau Public](https://public.tableau.com/app/profile/shray.arora4843/viz/School-AgeDigitalConnectivityAnalysis-Visualization/Dashboard1)
 
 
