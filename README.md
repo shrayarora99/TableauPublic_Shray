@@ -1,5 +1,5 @@
 # Tableau_Public_Shray_Arora
-Data Analysis and Tableau Vizualization for King County (Washington) Housing and British Airways Customer Reviews.
+Data Analysis and Tableau Vizualization for King County (Washington) Housing, Netflix Content, School-age Digital Connectivity and British Airways Customer Reviews.
 
 ## Tableau Visualizations
 
@@ -45,4 +45,49 @@ Tableau: For visualizing customer satisfaction trends and issues.
 
 ![Image description](https://github.com/shrayarora99/TableauPublic_Shray/blob/main/British%20Airways%20Customer%20Reviews%20Analysis.png)
 [View on Tableau Public](https://public.tableau.com/path_to_your_other_viz)
+
+
+
+### 3. Netflix Global Content Analysis Dashboard
+Created an interactive Tableau dashboard analyzing Netflix’s content library, focusing on genre trends, ratings, and global distribution. Utilized SQL for data extraction and Python for data cleaning, transforming raw data into strategic insights. The dashboard visualizes key metrics, offering a clear view of content trends and supporting data-driven decision-making.
+
+Key Insights:
+Global Content Distribution: Visualizing the concentration of content across different countries.
+
+Top Genres: Identifying the most popular genres and their audience engagement levels.
+
+Ratings Analysis: Examining content ratings distribution to understand trends in viewer preferences.
+
+Tools Used:
+
+SQL: For data handling and extraction.
+Python: For data processing and cleaning.
+Tableau: For data visualization and interactive dashboard creation.
+
+![Image Description](https://github.com/shrayarora99/TableauPublic_Shray/blob/main/Netflix%20Content%20Data%20Analysis.png)
+[View on Tableau Public](https://public.tableau.com/app/profile/shray.arora4843/viz/NetflixContentAnalysisandVisualization/Netflix)
+
+### 4. School-age Digital Connectivity Dashboard
+
+Based on data from the UNICEF Global Database, this project visualizes the disparities in school-age digital connectivity across 87 countries. The data was processed to highlight the percentage of children aged 3-17 with internet access, and Tableau was used to create interactive visualizations showing differences across urban, rural, and economic divides.
+
+Key Insights:
+
+Digital Access by Region: Identifying regions with the most and least connectivity.
+
+Urban vs. Rural Disparities: Highlighting the digital divide between urban and rural areas.
+
+Socioeconomic Factors: Understanding how economic status impacts internet connectivity for school-age children.
+
+Tools Used:
+
+SQL: For extracting and managing large datasets.
+
+Python: For data processing and cleaning.
+
+Tableau: For creating interactive visualizations and insightful presentations.
+![Image Description](https://github.com/shrayarora99/TableauPublic_Shray/blob/main/Netflix%20Content%20Data%20Analysis.png)
+[View on Tableau Public](https://public.tableau.com/app/profile/shray.arora4843/viz/School-AgeDigitalConnectivityAnalysis-Visualization/Dashboard1)
+
+
 
